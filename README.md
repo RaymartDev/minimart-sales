@@ -117,7 +117,8 @@ Run `seed_data.sql` to populate the database.
 ## 📬 Contact
 
 **Raymart Sarmiento**  
+```text
 📧 raymart.sarmiento23@gmail.com / raymart.sarmiento23@outlook.com
 🌐 [LinkedIn](https://www.linkedin.com/in/raymart-s-lob/)  
-
+```
 ---
