@@ -20,7 +20,7 @@ To showcase relational database design and data analysis skills using only SQL.
 
 ## 🗂️ Schema Overview
 
-<pre lang="markdown"> ```text customers ─────┐ └──▶ orders ───▶ order_items ◀── products ◀── categories │ inventory ``` </pre>
+```text customers ─────┐ └──▶ orders ───▶ order_items ◀── products ◀── categories │ inventory ```
 
 
 **Entities:**
@@ -96,17 +96,6 @@ Run `seed_data.sql` to populate the database.
 | MySQL Workbench | DB visualization + testing  |
 | dbdiagram.io | ERD diagram visualization      |
 | Markdown   | Documentation & explanation     |
-
----
-
-## 📁 File Structure
-
-📦 sql-portfolio-minimart/
-┣ 📄 schema.sql
-┣ 📄 seed_data.sql
-┣ 📄 queries.sql
-┣ 🖼 erd.png
-┗ 📄 README.md
 
 ---
 ## 📁 File Structure
