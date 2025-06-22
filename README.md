@@ -20,7 +20,11 @@ To showcase relational database design and data analysis skills using only SQL.
 
 ## 🗂️ Schema Overview
 
-```text customers ─────┐ └──▶ orders ───▶ order_items ◀── products ◀── categories │ inventory ```
+```text 
+customers ─────┐ 
+└──▶ orders ───▶ order_items ◀── products ◀── categories 
+│ inventory 
+```
 
 
 **Entities:**
